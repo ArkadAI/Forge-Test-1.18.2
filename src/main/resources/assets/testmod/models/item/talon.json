@@ -1,0 +1,10 @@
+{
+  "parent": "item/generated",
+  "loader": "forge:obj",
+  "flip-v": true,
+  "model": "testmod:models/item/x_90_talon.obj",
+  "textures": {
+    "texture0": "testmod:item/x_90_talon_dark_gray.png",
+    "particle": "testmod:item/x_90_talon_dark_gray.png"
+  }
+}
